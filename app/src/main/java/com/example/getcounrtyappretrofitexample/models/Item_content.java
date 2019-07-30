@@ -7,7 +7,6 @@ import java.util.List;
 
 public class Item_content
 {
-
     @SerializedName("id")
     @Expose
     private Integer id;
